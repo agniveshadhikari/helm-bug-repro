@@ -1,0 +1,2 @@
+nginx-ingress:
+  enabled: false
